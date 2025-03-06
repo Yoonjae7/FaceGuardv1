@@ -1,4 +1,4 @@
-# FaceGuard
+# FaceGuardv1
 
 A real-time face recognition system using your laptop's camera to detect and recognize individuals. The system allows you to add new persons by providing a set of images and alerts for unrecognized personnel.
 
@@ -67,7 +67,7 @@ The program offers the following options:
 4. When asked for "path to images directory", provide the full file path to the folder containing the images:
    - **Windows example**: `C:\Users\YourName\Pictures\PersonName`
    - **Mac example**: `/Users/YourName/Pictures/PersonName`
-   - **Linux example**: `/home/YourName/Pictures/PersonName`
+   - **Linux example**: `/home/YourName/Pictures/PersonName`\
 
    You can copy-paste the full path from your file explorer/finder to avoid typing errors.
 
@@ -118,4 +118,3 @@ This system processes biometric data (facial features). Please use responsibly:
 - Be aware of local laws regarding facial recognition technology
 - Secure any stored face data appropriately
 
-Test line
